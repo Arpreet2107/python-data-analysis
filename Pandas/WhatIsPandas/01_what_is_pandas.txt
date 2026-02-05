@@ -1,0 +1,5 @@
+What is Pandas?
+Python library used for working with structured data sets (tables).
+It has functions for analyzing, cleaning, exploring, and manipulating data.
+Similar to data tables in SQL and Excel.
+!pip install pandas
